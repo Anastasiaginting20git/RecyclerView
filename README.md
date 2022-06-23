@@ -1,7 +1,7 @@
 # RecyclerView
 
-Nama    : Marifatul Ulfah
-Nim     : 311910577
+Nama    : Anastasia Br Ginting
+Nim     : 311910528
 Kelas   : TI.19.C1
 
 Source code program
